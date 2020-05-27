@@ -1,0 +1,13 @@
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\bin\Debug\netcoreapp3.1\Lab32LinqLab.exe
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\bin\Debug\netcoreapp3.1\Lab32LinqLab.deps.json
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\bin\Debug\netcoreapp3.1\Lab32LinqLab.runtimeconfig.json
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\bin\Debug\netcoreapp3.1\Lab32LinqLab.runtimeconfig.dev.json
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\bin\Debug\netcoreapp3.1\Lab32LinqLab.dll
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\bin\Debug\netcoreapp3.1\Lab32LinqLab.pdb
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.csprojAssemblyReference.cache
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.AssemblyInfoInputs.cache
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.AssemblyInfo.cs
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.dll
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.pdb
+C:\Users\xando\OneDrive\Desktop\ALL GRAND CIRCUS\Grand Circus Projects\Bootcamp Labs & Projects\LABS\C#\Lab32LinqLab\Lab32LinqLab\obj\Debug\netcoreapp3.1\Lab32LinqLab.genruntimeconfig.cache
